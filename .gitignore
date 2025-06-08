@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Android build
+android/app/build/
+android/.gradle/
+
+# iOS build (if exists)
+ios/build/
+
+# Log files
+*.log
+
+# Misc
+.env
+*.keystore
