@@ -1,16 +1,32 @@
-# Node modules
-node_modules/
+# Node modules inside CC_Customer
+CC_Customer/node_modules/
 
-# Android build
-android/app/build/
-android/.gradle/
+# Android build folders inside CC_Customer
+CC_Customer/android/.gradle/
+CC_Customer/android/app/build/
 
-# iOS build (if exists)
-ios/build/
+# iOS build folder (if it exists)
+CC_Customer/ios/build/
+
+
+# Node modules inside CC_Shop
+CC_Shop/node_modules/
+
+# Android build folders inside CC_Shop
+CC_Shop/android/.gradle/
+CC_Shop/android/app/build/
+
+# iOS build folder (if it exists)
+CC_Shop/ios/build/
+
+
+#CC_backend files
+CC_Backend/node_modules/
+CC_Backend/postgres-data/
 
 # Log files
 *.log
 
 # Misc
-.env
+**/.env
 *.keystore
