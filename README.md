@@ -27,7 +27,7 @@
 
 ## Installation of the Project
 
-1. Clone the project by -  `git clone https://github.com/yamiamit/CampusCart.git`.
+1. Clone the project by -  `git clone https://github.com/yamiamit/Campus_Cart.git`.
 
 ## Running the Project
 
